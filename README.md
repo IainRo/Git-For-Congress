@@ -1,5 +1,5 @@
 # Congress In Context
-Created for LA Hacks 2021
+Created for LA Hacks 2021: Devpost Link: https://devpost.com/software/congress-in-context 
 
 Bills passed by Congress are frequently long, confusing and hard to read. This web app puts these Bill changes in context.
 
